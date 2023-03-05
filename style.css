@@ -1,0 +1,23 @@
+h1,h2{
+    color:black;
+    background-color: azure;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 1px;
+}
+
+p{
+    color:blue;
+    background-color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    color:rgba(27, 125, 92, 0.694);
+    font-display: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption{
+    color:rgb(114, 55, 55);
+}
