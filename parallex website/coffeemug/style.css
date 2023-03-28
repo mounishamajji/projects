@@ -1,0 +1,50 @@
+.container{
+    border:5px solid rgb(228, 222, 222);
+    display:flex;
+    width:550px;
+    margin:20px;
+    border-radius: 10px;
+}
+.title{
+    position:absolute;
+    letter-spacing:2px;
+    top:5%;
+    left:24%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(176, 179, 182)
+}
+.head{
+    position:absolute;
+    top:10%;
+    left:24%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:1px 1px 2px;
+}
+.tail{
+    position:absolute;
+    top:20%;
+    left:24%;
+}
+.price{
+    position:absolute;
+    bottom:50%;
+    left:24%;
+    font-size:2rem;
+    color:green;
+}
+.cost{
+    position:absolute;
+    bottom:53%;
+    left:30%;
+    
+}
+.green{
+    width:200px;
+    height: 30px;
+    position:absolute;
+    bottom:50%;
+    left:25%;
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+}

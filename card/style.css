@@ -1,0 +1,31 @@
+.card{
+    border:10px solid rgb(241, 230, 230);
+    width:400px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin:10px;
+    background-color:rgba(211, 237, 237, 0.877);
+}
+img{
+    border-radius:3%;
+}
+p{
+    display:inline;
+}
+h3{
+    font-size: large;
+}
+#ln{
+    background-color: rgb(104, 97, 97);
+    margin: 4%;
+}
+#cost{
+    margin: 3%;
+    color:rgb(78, 78, 180);
+}
+button{
+
+background-color: rgba(110, 160, 110, 0.854);
+    border:1px solid green;
+}
